@@ -1,4 +1,5 @@
 # pip install --upgrade google-cloud-storage. 그런데 이거 안해도 될 거 같다. 어차피 import도 안함.
+# pip install --upgrade firebase-admin
 
 # 참조문서: https://cloud.google.com/storage/docs/reference/libraries
 # 참조문서: https://firebase.google.com/docs/storage/admin/start?hl=ko&_gl=1*bcle9q*_up*MQ..*_ga*MTExMDA0ODI0OS4xNzE4MDIzOTQw*_ga_CW55HF8NVT*MTcxODAyMzk0MC4xLjAuMTcxODAyMzk0MC4wLjAuMA..#python
